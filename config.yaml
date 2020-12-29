@@ -1,0 +1,20 @@
+# IceSpyTools Configuration
+# By Johnanater
+# https://johnanater.com
+
+# Should the plugin spy on the killer
+# when they kill someone?
+DeathSpy: true
+
+# Should the plugin take timed
+# spies automatically?
+TimedSpy: true
+TimedSpySeconds: 30
+
+# Should the plugin keep backups?
+KeepBackups: true
+BackupNumber: 3
+
+# Should the plugin print
+# some cool debug messages?
+Debug: false
